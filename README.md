@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Md Ehtesham Ansari</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate AI/ML Enthusiast and Software Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdehteshamansari&label=Profile%20views&color=0e75b6&style=flat" alt="mdehteshamansari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdehteshamansari" alt="mdehteshamansari" /></a> </p>
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Data Analysis**
 
-- 💬 Ask me about **Machine Learning,Natural Language Processing And Data Analysis**
+- 💬 Ask me about **Machine Learning, Natural Language Processing And Data Analysis**
 
 - 📫 How to reach me **mdehteshamansari00@gmail.com**
 
